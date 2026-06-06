@@ -1,0 +1,6 @@
+.map {
+  display: grid;
+  grid-template-columns: repeat(50, 30px);
+  grid-template-rows: repeat(30, 30px);
+  margin: 0 auto;
+}
